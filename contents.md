@@ -1,8 +1,5 @@
 # contents
-# Titles
 
-* A River Runs Through It
-* Fight Club
-* 12 Years A Slave
-* The Big Short
-* 12 Monkeys
+* titles.md: The movie titles in the WebFlyx collection
+* classics.csv: A comma-separated list of classic movies
+* quotes: A directory of files containing memorable quotes from movies
